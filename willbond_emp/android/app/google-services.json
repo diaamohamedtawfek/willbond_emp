@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "670428607930",
+    "firebase_url": "https://wellbond-40010.firebaseio.com",
+    "project_id": "wellbond-40010",
+    "storage_bucket": "wellbond-40010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670428607930:android:a76a0569fb09412852d983",
+        "android_client_info": {
+          "package_name": "com.diaa.mdiaa7788.willbond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670428607930-mer5vdit5hl2pft1clto4hopjs72mjsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60KKbYKSRcyf1pKny699LWle1m1Bz_74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670428607930-mer5vdit5hl2pft1clto4hopjs72mjsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670428607930:android:606293e6bdb11dbe52d983",
+        "android_client_info": {
+          "package_name": "com.diaa.mdiaa7788.willbond_emp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670428607930-mer5vdit5hl2pft1clto4hopjs72mjsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60KKbYKSRcyf1pKny699LWle1m1Bz_74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670428607930-mer5vdit5hl2pft1clto4hopjs72mjsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670428607930:android:8d5426fbb0d4562152d983",
+        "android_client_info": {
+          "package_name": "com.zad.wellbond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670428607930-mer5vdit5hl2pft1clto4hopjs72mjsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60KKbYKSRcyf1pKny699LWle1m1Bz_74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670428607930-mer5vdit5hl2pft1clto4hopjs72mjsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
